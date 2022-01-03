@@ -15,7 +15,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=wild-sky&theme=minimal" />
 </div>
 
-<div align="center"><img src="https://raw.githubusercontent.com/wild-sky/wild-sky/main/assets/github-contribution-grid-snake.svg" ></div>
+<div align="center"><img src="https://raw.githubusercontent.com/wild-sky/wild-sky/output/github-contribution-grid-snake.svg" ></div>
 
 <!--
 **wild-sky/wild-sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
