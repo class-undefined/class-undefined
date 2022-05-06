@@ -1,7 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
+
 <p align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23000000&multiline=true&height=120&lines=const+main+%3D+()+%3D%3E+%7B;....console.log(%22Hello+World!%22);%7D;main()" alt="typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23000000&multiline=true&height=220&lines=const+main+%3D+()+%3D%3E+%7B;....console.log(%22Hello+World!%22);%7D;main()" alt="typing-svg">
 </p>
 <div align="center">
   <span>  </span>
