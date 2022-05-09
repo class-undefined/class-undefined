@@ -7,9 +7,9 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=wild-sky&theme=buefy" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wild-sky&layout=compact&langs_count=8" />
   <span>  </span>
 </div>
-<div align="center">
+<!-- <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=wild-sky&theme=vue" />
-</div>
+</div> -->
 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=wild-sky&theme=minimal" />
