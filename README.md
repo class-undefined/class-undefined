@@ -12,10 +12,10 @@
 <!-- <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=wild-sky&theme=vue" />
 </div> -->
-
+<!-- 
 <div align="center">
     <img src="https://activity-graph.herokuapp.com/graph?username=wild-sky&theme=minimal" />
-</div>
+</div> -->
 
 <div align="center"><img src="https://raw.githubusercontent.com/wild-sky/wild-sky/output/github-contribution-grid-snake.svg" ></div>
 
