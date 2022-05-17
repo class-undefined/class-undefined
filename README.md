@@ -8,7 +8,9 @@
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=class-undefined&layout=compact&langs_count=8" />
 </div>
 <div>
+  <a href="https://leetcode.cn/u/class-undefined/" target="_blank">
     <img height="170px" src="https://leetcode.card.workers.dev/?username=class-undefined&theme=auto&site=cn" />
+  </a>
 </div>
 
 
