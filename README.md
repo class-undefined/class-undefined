@@ -1,7 +1,9 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
 - ⚡ Fear can be expelled with knowledge.
-
+<div align="center">
+    <img src="https://leetcode.card.workers.dev/?username=class-undefined&theme=auto&site=cn" />
+</div>
 <div align="center">
   <span>  </span>
 <!--   ![wild-sky's GitHub stats](https://github-readme-stats.vercel.app/api?username=class-undefined&show_icons=true) -->
@@ -9,13 +11,10 @@
   <span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=class-undefined&layout=compact&langs_count=8" />
   <span>  </span>
 </div>
-<!-- <div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=class-undefined&theme=vue" />
-</div> -->
-<!-- 
-<div align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=class-undefined&theme=minimal" />
-</div> -->
+
+
+
+
 
 <div align="center"><img src="https://raw.githubusercontent.com/class-undefined/class-undefined/output/github-contribution-grid-snake.svg" ></div>
 
