@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning ...
 - ⚡ Fear can be expelled with knowledge.
-- 📖 [Welcome to my blog](https://class-undefined.cn/)
+- 📖 Welcome to my blog: [https://class-undefined.cn/](https://class-undefined.cn/)
 
 <div>
   <a href="https://leetcode.cn/u/class-undefined/" target="_blank">
