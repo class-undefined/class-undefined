@@ -10,12 +10,8 @@
 </div>
 <div style="display:flex;justify-content:space-around;">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=class-undefined&theme=buefy&show_icons=true" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=class-undefined&layout=compact&langs_count=8" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=class-undefined&layout=compact&langs_count=8&hide=html" />
 </div>
-
-
-
-
 
 
 
