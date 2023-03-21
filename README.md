@@ -10,7 +10,7 @@
 </div>
 <div style="display:flex;justify-content:space-around;">
   <img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=class-undefined&theme=buefy&show_icons=true" />
-  <img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=class-undefined&layout=compact&langs_count=8&hide=html" />
+  <img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=class-undefined&layout=compact&langs_count=8&hide=html,css,scss" />
 </div>
 
 
