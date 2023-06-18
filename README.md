@@ -13,14 +13,9 @@
   <img height="170px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=class-undefined&layout=compact&langs_count=8&hide=html,css,scss" />
 </div>
 
-
-
-
-
-<div align="center"><img src="https://raw.githubusercontent.com/class-undefined/class-undefined/output/github-contribution-grid-snake.svg" ></div>
 <div align="center"><img src="https://raw.githubusercontent.com/class-undefined/class-undefined/master/profile-3d-contrib/profile-green-animate.svg"></div>
-<!--
-**wild-sky/wild-sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"><img src="https://raw.githubusercontent.com/class-undefined/class-undefined/output/github-contribution-grid-snake.svg" ></div>
+
 
 Here are some ideas to get you started:
 
