@@ -5,7 +5,8 @@
 
 <div>
   <a href="https://leetcode.cn/u/class-undefined/" target="_blank">
-    <img height="170px" src="https://leetcode.card.workers.dev/?username=class-undefined&theme=auto&site=cn" />
+    
+    <img height="170px" src="https://leetcard.jacoblin.cool/class-undefined?site=cn&theme=auto&ext=activity" />
   </a>
 </div>
 <div style="display:flex;justify-content:space-around;">
