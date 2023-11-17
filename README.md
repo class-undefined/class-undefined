@@ -2,10 +2,11 @@
 - 🌱 I’m currently learning ...
 - ⚡ Fear can be expelled with knowledge.
 - 📖 Welcome to my blog: [https://class-undefined.cn/](https://class-undefined.cn/)
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=class-undefined" width="0" height="0"/>
 <div>
   <a href="https://leetcode.cn/u/class-undefined/" target="_blank">
   <img src="https://leetcard.jacoblin.cool/class-undefined?site=cn&theme=light,dark&ext=activity" />
+  
   </a>
 </div>
 <div style="display:flex;justify-content:space-around;">
